@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aliye\\source\\repos\\CustomSearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAD6BA6-067C-49BF-9C59-1962EE4F7834}|CustomSearch\\CustomSearch.csproj|c:\\users\\aliye\\source\\repos\\customsearch\\customsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAD6BA6-067C-49BF-9C59-1962EE4F7834}|CustomSearch\\CustomSearch.csproj|solutionrelative:customsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAD6BA6-067C-49BF-9C59-1962EE4F7834}|CustomSearch\\CustomSearch.csproj|c:\\users\\aliye\\source\\repos\\customsearch\\customsearch\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAD6BA6-067C-49BF-9C59-1962EE4F7834}|CustomSearch\\CustomSearch.csproj|solutionrelative:customsearch\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\aliye\\source\\repos\\CustomSearch\\CustomSearch\\Extension.cs",
+              "RelativeDocumentMoniker": "CustomSearch\\Extension.cs",
+              "ToolTip": "C:\\Users\\aliye\\source\\repos\\CustomSearch\\CustomSearch\\Extension.cs",
+              "RelativeToolTip": "CustomSearch\\Extension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:07:22.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliye\\source\\repos\\CustomSearch\\CustomSearch\\Program.cs",
+              "RelativeDocumentMoniker": "CustomSearch\\Program.cs",
+              "ToolTip": "C:\\Users\\aliye\\source\\repos\\CustomSearch\\CustomSearch\\Program.cs",
+              "RelativeToolTip": "CustomSearch\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:04:31.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

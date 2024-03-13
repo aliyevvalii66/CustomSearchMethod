@@ -1,0 +1,14 @@
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\bin\Debug\net6.0\CustomSearch.exe
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\bin\Debug\net6.0\CustomSearch.deps.json
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\bin\Debug\net6.0\CustomSearch.runtimeconfig.json
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\bin\Debug\net6.0\CustomSearch.dll
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\bin\Debug\net6.0\CustomSearch.pdb
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\CustomSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\CustomSearch.AssemblyInfoInputs.cache
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\CustomSearch.AssemblyInfo.cs
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\CustomSearch.csproj.CoreCompileInputs.cache
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\CustomSearch.dll
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\refint\CustomSearch.dll
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\CustomSearch.pdb
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\CustomSearch.genruntimeconfig.cache
+C:\Users\aliye\source\repos\CustomSearch\CustomSearch\obj\Debug\net6.0\ref\CustomSearch.dll
